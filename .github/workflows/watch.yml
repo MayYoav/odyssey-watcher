@@ -3,7 +3,7 @@ name: Odyssey IMAX Watcher
 on:
   schedule:
     # כל 10 דקות (UTC). GitHub עשוי לאחר בכמה דקות בשעות עומס - זה נורמלי.
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       mode:
