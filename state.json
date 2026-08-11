@@ -1,0 +1,31 @@
+{
+ "initialized": true,
+ "lastCount": 6,
+ "lastRun": "2026-08-11T18:14:34Z",
+ "seen": {
+  "302677": {
+   "date": "2026-08-15",
+   "soldOut": false
+  },
+  "302678": {
+   "date": "2026-08-15",
+   "soldOut": false
+  },
+  "302679": {
+   "date": "2026-08-15",
+   "soldOut": false
+  },
+  "302680": {
+   "date": "2026-08-14",
+   "soldOut": false
+  },
+  "302681": {
+   "date": "2026-08-14",
+   "soldOut": false
+  },
+  "302682": {
+   "date": "2026-08-14",
+   "soldOut": false
+  }
+ }
+}
