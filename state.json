@@ -1,7 +1,7 @@
 {
  "initialized": true,
- "lastCount": 4,
- "lastRun": "2026-08-14T20:11:21Z",
+ "lastCount": 5,
+ "lastRun": "2026-08-14T20:12:22Z",
  "seen": {
   "302677": {
    "date": "2026-08-15",
@@ -25,6 +25,10 @@
   },
   "302682": {
    "date": "2026-08-14",
+   "soldOut": false
+  },
+  "308527": {
+   "date": "2026-08-15",
    "soldOut": false
   }
  }
