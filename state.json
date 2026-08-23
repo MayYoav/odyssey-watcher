@@ -1,27 +1,6 @@
 {
  "initialized": true,
  "lastCount": 0,
- "lastRun": "2026-08-22T23:59:15Z",
- "seen": {
-  "308664": {
-   "date": "2026-08-22",
-   "soldOut": false
-  },
-  "308665": {
-   "date": "2026-08-22",
-   "soldOut": false
-  },
-  "308666": {
-   "date": "2026-08-22",
-   "soldOut": false
-  },
-  "308667": {
-   "date": "2026-08-22",
-   "soldOut": false
-  },
-  "308668": {
-   "date": "2026-08-22",
-   "soldOut": false
-  }
- }
+ "lastRun": "2026-08-23T00:00:41Z",
+ "seen": {}
 }
