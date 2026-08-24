@@ -1,6 +1,11 @@
 {
  "initialized": true,
- "lastCount": 0,
- "lastRun": "2026-08-24T18:59:14Z",
- "seen": {}
+ "lastCount": 1,
+ "lastRun": "2026-08-24T19:00:42Z",
+ "seen": {
+  "317753": {
+   "date": "2026-08-28",
+   "soldOut": false
+  }
+ }
 }
